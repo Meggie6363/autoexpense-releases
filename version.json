@@ -2,5 +2,5 @@
   "versionCode": 1,
   "versionName": "1.0.0",
   "downloadUrl": "https://github.com/Meggie6363/autoexpense-releases/releases/download/v1.0.0/app-debug.apk",
-  "changelog": "首个版本：\n• 支持9大支付平台\n• 无障碍自动检测\n• 本地存储隐私安全"
+  "changelog": "初始基线版本：\n• 9大支付平台自动记账\n• 悬浮窗手动记录 + 自动扫描\n• 支付检测弹出确认通知\n• 参考页面采集与结构指纹匹配\n• 账单编辑/删除\n• 内置自动更新\n• 5大中国ROM适配\n• Material 3 UI（蓝白配色）"
 }
